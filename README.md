@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello there! I am PndaMan</h3>
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
+  <a href="">Website</a> •
+  <a href="https://www.instagram.com/pndamanofficial/">Instagram</a>
 </p>
 
 ---
