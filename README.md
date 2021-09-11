@@ -12,7 +12,7 @@ I love collaborating with people on projects and sharing what I can do with the 
 - 😄 My Pronouns: He/They
 - 🔭 I’m currently working on [Ingenium Bot]()   
 - 🌱 I’m currently learning ``TypeScript``, ``CSS``, ``Java``, ``ReactJS``!
-- 📫 How to reach me: [@pndamanofficial_](https://www.instagram.com/pndamanofficial/)
+- 📫 How to reach me: [@pndamanofficial](https://www.instagram.com/pndamanofficial/)
 - 👯 I’m looking to collaborate on any new python project :)
 <!--
 **PndaMan/PndaMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
