@@ -11,7 +11,7 @@ I love collaborating with people on projects and sharing what I can do with the 
 
 - 😄 My Pronouns: He/They
 - 🔭 I’m currently working with [Ingenium](https://github.com/IngeniumTMC)   
-- 🌱 I’m currently learning ``TypeScript``, ``CSS``, ``Java``, ``ReactJS``!
+- 🌱 I’m currently learning ``TypeScript``, ``CSS``, ``Java``, ``ReactJS``, ``Pycord``!
 - 📫 How to reach me: [@pndamanofficial](https://www.instagram.com/pndamanofficial/)
 - 👯 I’m looking to collaborate on any new python project :)
 <!--
