@@ -9,7 +9,6 @@
 I love collaborating with people on projects and sharing what I can do with the world
 
 
-- 😄 My Pronouns: He/They
 - 🔭 I’m currently working with [Ingenium](https://github.com/IngeniumTMC)   
 - 🌱 I’m currently learning ``TypeScript``, ``CSS``, ``Java``, ``ReactJS``, ``Pycord``!
 - 📫 How to reach me: [@pndamanofficial](https://www.instagram.com/pndamanofficial/)
